@@ -32,3 +32,5 @@ dataframe for exportation (“project_bids.xlsx”).
 PRR.xlsx” and the two output files from the Python scripts. It takes given information from the
 masterlist, reformats the data, merges it with the other outputs, and churns out the final cleaned
 data set with the five projects matching the template.
+
+The completed output file for the chosen projects with proper formatting is **"Ohio_projects_collected_clean.xlsx"**.
